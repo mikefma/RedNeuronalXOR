@@ -1,4 +1,4 @@
-"Modificado por Michael Hernández Martínez"
+"Modificado por Samuel D. Tovar Alfonso"
 import numpy as np
 import matplotlib.pyplot as plt
 
